@@ -24,7 +24,21 @@
 }
 
 .navlist {
+    display: flex;
     list-style-type: none;
+    align-items: center;
+    justify-content: center;
+    margin-right: 150px;
+}
+
+.navlist li a {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    color: black;
+    text-decoration: none;
+    font-size: 24px;
+    
 }
 
 .area-1 {
