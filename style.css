@@ -1,7 +1,6 @@
 * {
     margin: 0px;
     padding: 0px;
-    border: 1px solid red;
     box-sizing: border-box;
 }
 
@@ -9,6 +8,8 @@
     display: flex;
     justify-content: space-between;
     height: 100px;
+    color: white;
+    background-color: #333333;
 }
 
 .navlogo{
@@ -34,7 +35,7 @@
 .navlist li a {
     margin: 10px;
     padding: 10px;
-    color: black;
+    color: white;
     text-decoration: none;
     font-size: 24px;
     font-family: 'Bebas Neue', sans-serif;
@@ -45,25 +46,30 @@
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    background-image: linear-gradient(to bottom right, #00aeef, #2d388a);
-}
-
-.area-1-text {
+    background-color: #e0e2e2;
 }
 
 .area-1-text h2 {
     font-family: 'Bebas Neue', sans-serif;
+    margin-top: 15px;
+    margin-right: 10px;
+    font-size: 48px;
 }
 
 .area-1-text p {
     width: 300px;
+    margin-bottom: 10px;
+    font-size: 18px;
 }
 
-.area-1-image {
-    
+.area-1-text button {
+    width: 120px;
+    height: auto;
 }
 
 .area-1-image img{
     height: 250px;
     width: auto;
+    border-radius: 50%;
+    margin: 5px;
 }
