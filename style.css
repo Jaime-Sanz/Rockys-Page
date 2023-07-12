@@ -1,8 +1,12 @@
 * {
-    border: 1px solid red;
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    height: 100vh;
 }
 
 .navbar {
@@ -43,6 +47,10 @@
     
 }
 
+.navlist a:hover {
+    color: #bec2c2;
+}
+
 .area-1 {
     display: flex;
     justify-content: center;
@@ -67,6 +75,16 @@
 .area-1-text button {
     width: 120px;
     height: auto;
+    background-color: #333333;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 16px;
+    border: 3px solid black;
+}
+
+.area-1-text button:hover {
+    background-color: #000000;
 }
 
 .area-1-image img{
@@ -162,18 +180,33 @@
 
 .area-4-subarea-header {
     align-self: center;
-    width: 400px;
+    width: 300px;
 }
 
 .area-4-subarea-header h4 {
     font-family: 'Bebas Neue', sans-serif;
-    text-align: center;
     width: 100px;
 }
 
 .area-4-subarea-button {
     align-self: center;
-    margin: 25px;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+
+.area-4-subarea-button button {
+    width: 150px;
+    height: 40px;
+    background-color: #333333;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 24px;
+    border: 3px solid black;
+}
+
+.area-4-subarea-button button:hover {
+    background-color: #000000;
 }
 
 .area-footer {
