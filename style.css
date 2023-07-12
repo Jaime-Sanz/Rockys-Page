@@ -1,4 +1,5 @@
 * {
+    border: 1px solid red;
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
@@ -138,4 +139,51 @@
     font-size: 20px;
     margin-left: 350px;
     align-self: center;
+}
+
+.area-4 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    height: 200px;
+}
+
+.area-4-subarea {
+    background-color: whitesmoke;
+    height: 100px;
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    border: black;
+    border-radius: 10px;
+}
+
+.area-4-subarea-header {
+    align-self: center;
+    width: 400px;
+}
+
+.area-4-subarea-header h4 {
+    font-family: 'Bebas Neue', sans-serif;
+    text-align: center;
+    width: 100px;
+}
+
+.area-4-subarea-button {
+    align-self: center;
+    margin: 25px;
+}
+
+.area-footer {
+    background-color: #333333;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.area-footer p {
+    align-self: center;
+    color: white;
 }
