@@ -1,8 +1,16 @@
 # Rocky's Page 
-Following `The Odin Project`, I have made my first webpage based on my adorable pug named Rocky.
+Following `The Odin Project`, I made my first webpage based on my adorable pug named Rocky.
 ## Preview
 | ![](images/Rocky's%20Page.png) |
 |----|
+
+For those who would like to run the application and/or edit its source code on their local computer, follow the steps below:
+
+1. Clone the repository with `git clone https://github.com/Jaime-Sanz/Rockys-Page` or download it as a .zip file and extract it.
+2. Navigate to where the repository is saved on your local machine and open its index.html file on your preferred web browser.
+
+# Usage
+- To display a concept of a webpage based on pugs or specifically my pug.
 
 > Note
 >
