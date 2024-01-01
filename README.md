@@ -1,5 +1,5 @@
-# The Odin Project
-Following The Odin Project, I have made my first webpage based on my adorable pug named Rocky.
+# Rocky's Page 
+Following `The Odin Project`, I have made my first webpage based on my adorable pug named Rocky.
 ## Preview
 | ![](images/Rocky's%20Page.png) |
 |----|
