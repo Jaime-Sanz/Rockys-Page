@@ -9,7 +9,7 @@ Following `The Odin Project`, I have made my first webpage based on my adorable 
 >> [A live deployment of Rocky's page is available on GitHub pages](https://jaime-sanz.github.io/Rockys-Page/)
 
 # Built Using
-> [![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,discord)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=html,css,vscode,discord)](https://skillicons.dev)
 
 # Contributing
 Feel free to submit an issue should a bug be found using the application.
